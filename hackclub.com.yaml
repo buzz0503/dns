@@ -1340,3 +1340,7 @@ zephyrnet:
 - ttl: 1
   type: CNAME
   value: hackclub.myftp.biz.
+ SUBDOMAIN_NAME:
+  - ttl: 1
+    type: CNAME
+    value: SOURCE_DOMAIN_OR_IP.
